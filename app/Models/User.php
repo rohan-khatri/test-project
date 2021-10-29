@@ -42,5 +42,5 @@ class User extends Authenticatable
         'email_verified_at' => 'datetime',
     ];
 
-    public $test = 1;
+    public $test = 2;
 }
